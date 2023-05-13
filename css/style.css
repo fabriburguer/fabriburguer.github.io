@@ -622,7 +622,7 @@ h1, h2, h3, h4, h5,
     }
 
     .btn-warning:hover {
-      border-radius: 100px;
+      border-radius: 20px;
       border: 2px solid rgb(0, 0, 0);
       background-color: whitesmoke;
       color: #000000;
